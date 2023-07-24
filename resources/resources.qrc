@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="appIcons">
+    <file>appIcons/discord.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/install-active.png</file>
+    <file>icons/install-inactive.png</file>
+    <file>icons/user-dark.png</file>
+    <file>icons/user-light.png</file>
+  </qresource>
+</RCC>

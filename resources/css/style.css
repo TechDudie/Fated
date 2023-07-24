@@ -1,0 +1,27 @@
+#centralwidget, #panel5, #panel6 {
+    background-color: #444444;
+}
+
+#appLabel, #info, #status, #userUsername {
+    color: white;
+}
+
+#panel4 {
+    border: none;
+    background-color: #222222;
+}
+
+#sidebarApps, #sidebarInstalled, #sidebarAbout, #userAccount {
+	width: 100%;
+	border: none;
+	border-radius: 0px;
+    margin: 2px;
+}
+
+#sidebarApps, #sidebarInstalled, #sidebarAbout {
+    background-color: #00aaff;
+}
+
+#userAccount {
+	background-color: #33dd88;
+}
